@@ -1,4 +1,5 @@
-# dat216-slutproject
+# iMat
+Final product for the project in course DAT216
 
 
 ![Github version](https://img.shields.io/badge/version-0.0.1-darkblue?style=flat-square)
